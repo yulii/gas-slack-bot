@@ -1,2 +1,3 @@
 /.clasp.json
 /secret.gs
+node_modules/

@@ -1,0 +1,23 @@
+{
+  "name": "gas-slack-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src --ext .gs --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yulii/gas-slack-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yulii/gas-slack-bot/issues"
+  },
+  "homepage": "https://github.com/yulii/gas-slack-bot#readme",
+  "devDependencies": {
+    "eslint": "^5.3.0"
+  }
+}
