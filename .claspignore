@@ -1,4 +1,4 @@
 **/**
 !config/*.gs
-!src/*.gs
+!src/**/*.gs
 !appsscript.json
